@@ -1,0 +1,1 @@
+/var/www/html/magento2/app/code/Hiddentechies/Next/view/frontend/web/js/owl.carousel.js

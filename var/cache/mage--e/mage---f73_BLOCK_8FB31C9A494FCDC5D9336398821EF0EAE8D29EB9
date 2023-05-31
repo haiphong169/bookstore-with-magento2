@@ -1,0 +1,9 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1685542049;s:6:"expire";i:1685545649;s:4:"tags";s:106:"f73_BLOCK_HTML,f73_CAT_C,f73_CAT_C_5,f73_CAT_C_6,f73_CAT_C_7,f73_CAT_C_8,f73_CAT_C_9,f73_CAT_C_10,f73_MAGE";}
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class = "level0 level-top  active ">
+                <a class = "level-top" href = "http://127.0.0.1/">
+                    Home                </a>
+            </li>
+                <li  class="level0 nav-1 category-item first level-top"><a href="http://127.0.0.1/nonfiction.html"  class="level-top" ><span>Nonfiction</span></a></li><li  class="level0 nav-2 category-item level-top"><a href="http://127.0.0.1/fiction.html"  class="level-top" ><span>Fiction</span></a></li><li  class="level0 nav-3 category-item level-top"><a href="http://127.0.0.1/science-fiction.html"  class="level-top" ><span>Science Fiction</span></a></li><li  class="level0 nav-4 category-item level-top"><a href="http://127.0.0.1/fantasy.html"  class="level-top" ><span>Fantasy</span></a></li><li  class="level0 nav-5 category-item level-top"><a href="http://127.0.0.1/mystery.html"  class="level-top" ><span>Mystery</span></a></li><li  class="level0 nav-6 category-item last level-top"><a href="http://127.0.0.1/romance.html"  class="level-top" ><span>Romance</span></a></li>    </ul>
+</nav>
